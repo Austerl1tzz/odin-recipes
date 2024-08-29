@@ -9,7 +9,18 @@ body {
 div {
     display: flex;
     justify-content: center;
-    width: auto;
+    width: 400px;
     font-size: 25px;
     color: black;
+    background-color: white;
+    margin: 20vh auto; 
+    border-radius: 10px;
 }
+
+a {
+    display: block; 
+    margin: 10px; 
+    color: green;
+}
+
+

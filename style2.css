@@ -25,3 +25,26 @@ div {
 body {
     background-color: #e2e3e3;
 }
+
+.start {
+    background-color: white;
+    display: block; 
+    padding: 16px; 
+    border-radius: 10px;
+    width: 600px; 
+    text-align: center;
+    margin: 8px auto; 
+}
+
+img {
+    display: block;
+    border-radius: 12px;
+    margin-bottom: 16px; 
+}
+
+h1 {
+    display: block; 
+    margin: 0 auto; 
+    margin-bottom: 16px; 
+    width: auto;  
+}
