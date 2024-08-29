@@ -1,0 +1,15 @@
+
+body {
+    font-family: 'Verdana', sans-serif; 
+    text-align: center;
+    font-size: 30px; 
+    background-color: #e2e3e3;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+    width: auto;
+    font-size: 25px;
+    color: black;
+}
